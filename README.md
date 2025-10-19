@@ -69,7 +69,8 @@ print(f(a,b))
 ```
 
 ## Output
-![alt text](m23.png)
+<img width="1699" height="727" alt="m23" src="https://github.com/user-attachments/assets/58b85d2b-5ce7-4196-bf4f-cec7724f6676" />
+
 ## Result
 Hence the program is executed and the output is verified
 
@@ -108,7 +109,8 @@ for n in range(rows):
 ```
 
 ## Sample Output
-![alt text](m24.png)
+<img width="1701" height="728" alt="m24" src="https://github.com/user-attachments/assets/20f858ac-1d99-4950-8bdb-483b43137e60" />
+
 
 ## Result
 Hence the program is executed and the output is verified
@@ -145,7 +147,8 @@ else:
 ```
 
 ## Output
-![alt text](m25.png)
+<img width="1699" height="729" alt="m25" src="https://github.com/user-attachments/assets/1710238a-ce31-439c-a2f4-56121efa2e5e" />
+
 ## Result
 Hence the program is executed and the output is verified
 
